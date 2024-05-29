@@ -1,0 +1,18 @@
+export { default as man } from "../assets/man.png";
+export { default as corporateman } from "../assets/corporate.png";
+export { default as Topservice } from "../assets/Topservice.png";
+export { default as exzellent } from "../assets/exzellent.png";
+export { default as AdvantageImage } from "../assets/AdvantageImage.png";
+export { default as map } from "../assets/maps.png";
+export { default as mail } from "../assets/mail.png";
+export { default as phone } from "../assets/phone.png";
+export { default as footerlogo } from "../assets/footerlogo.png";
+export { default as BannerImage } from "../assets/BannerImage.png";
+export { default as person } from "../assets/person.png";
+export { default as footerBackground } from "../assets/footerBackground.png";
+export { default as backgroundImageContact } from "../assets/product-before.png";
+export { default as house } from "../assets/house-protection-bank-removebg-preview.png";
+export { default as backgroundWealthmanagement } from "../assets/backgroundwealth.png";
+export { default as NavbarLogo } from "../assets/navbarlogo.png";
+export { default as HamburgerNavbar } from "../assets/HamburgerNavbar.jpeg";
+export {default as moreinfo} from  "../assets/information-button.svg";
