@@ -4,9 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-# src/fonts
-# src/assets
-src/components
+src/fonts
+src/assets
 
 
 # testing
